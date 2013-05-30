@@ -1,0 +1,4 @@
+samurai
+=======
+
+Samurai Identifier splitter
